@@ -25,7 +25,7 @@ Hi, I'm Yukun Zou. I am a Communication Systems Master student in KTH Royal Inst
 
 - [Webassembly](https://webassembly.org/)
 - [Rust](https://www.rust-lang.org/)
-- [Ethical Hacking](https://www.kth.se/student/kurser/kurs/EN2720?l=en)
+- [Ethical Hacking(Penetration Testing)](https://www.kth.se/student/kurser/kurs/EN2720?l=en)
 
 ## 📫 Contact Me
 
